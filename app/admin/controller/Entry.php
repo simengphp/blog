@@ -14,7 +14,6 @@ class Entry extends Common
 {
     public function login(Request $request)
     {
-        
         return $this->fetch("login");
     }
 }
