@@ -6,8 +6,12 @@
  * Date: 2017/11/23
  * Time: 15:19
  */
+namespace app\common\model;
 use think\Model;
 class Admin extends Model
 {
+
+
+
 
 }
